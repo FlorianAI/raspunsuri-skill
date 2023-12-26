@@ -2,7 +2,7 @@
 Gaseste raspunsuri la orice intrebare pusa in limba romana
 
 ## About
-Acesta este un skill mycroft, care folosind google bard gaseste raspunsul la orice intrebare pusa in limba romana.
+Acesta este un skill mycroft, care folosind open AI gaseste raspunsul la orice intrebare pusa in limba romana.
 
 ## Examples
 * "Cine a fost {persoana}"
