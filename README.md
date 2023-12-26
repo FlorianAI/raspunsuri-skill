@@ -19,8 +19,8 @@ Information
 Daily
 
 ## Tags
-#Bard
-#Google
+#OpenAI
+#AI
 #Raspunsuri
 #Intreba orice
 
